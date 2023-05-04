@@ -104,3 +104,11 @@ contract SmartWallet {
 contract consumer {
     receive() external payable {}
 }
+
+/*
+This exercise is for a cours that i watching now:
+"Udemy - Ethereum Blockchain Developer Bootcamp With Solidity (2022) 2022-10"
+lecture 'Smart Wallet'.
+*/
+
+
